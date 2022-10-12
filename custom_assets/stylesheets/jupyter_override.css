@@ -68,12 +68,12 @@ a.login_button .sso_login_icon {
     vertical-align: middle;
     width: 25px;
     height: 20px;
-    background: url("/ondemand/static/custom_assets/images/login_button@2x.png") center center no-repeat;
+    background: url("/static/custom_assets/images/login_button@2x.png") center center no-repeat;
     background-size: 25px 20px; 
 }
 @media (min-width: 600px) {
       a.login_button .sso_login_icon {
-        background: url("/ondemand/static/custom_assets/images/login_button@2x.png") center center no-repeat;
+        background: url("/static/custom_assets/images/login_button@2x.png") center center no-repeat;
         background-size: 90%;
         width: 139px;
         height: 43px; 
