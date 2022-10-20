@@ -2,24 +2,22 @@
  * Overrides for JupyterHub's login styles
  */
 #user_agreement {
-  color:#000;
-  background-color:#dfeaff;
-  width:40%;
+  color:#eee;
+  background-color:#000;
+  width:60%;
   font-size:small;
   margin-left:auto;
   margin-right:auto;
-  text-align:center;
-  opacity:0.8; 
+  text-align:left;
 }
 
 #user_rules {
-  color:#000;
-  background-color:#dfeaff;
+  color:#eee;
+  background-color:#000;
   width:60%;
   font-size:medium;
   margin-left:auto;
   margin-right:auto;
-  opacity:0.8;
 }
 
 .ur_h3 {
